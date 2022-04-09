@@ -1,0 +1,7 @@
+.rowstyle{
+    display: flex;
+}
+
+.rowstyle :hover{
+    background-color: gray;
+}

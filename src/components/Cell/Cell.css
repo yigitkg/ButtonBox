@@ -1,0 +1,25 @@
+.cell{
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+ 
+    /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    display: inline-block;
+    width: 70px;
+    border: 0.1rem solid gray;
+    padding: 0.5rem 1rem;
+}
+
+.on {
+    color: green;
+}
+
+.off {
+    color: red;
+}

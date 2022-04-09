@@ -1,0 +1,6 @@
+.switch{
+    display: flex;
+    flex-direction: row;
+    padding-right: 1rem;
+    gap: 1rem;
+}

@@ -1,0 +1,19 @@
+.maincontainer{
+    font-size: 3rem;
+    padding: 10rem;
+    margin: 128px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+.panel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+}

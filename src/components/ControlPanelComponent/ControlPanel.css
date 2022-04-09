@@ -1,0 +1,21 @@
+.controlpanel{
+    border: 0.2rem solid gray;
+    padding: 0rem 2rem 2rem 2rem;
+}
+.vectors{
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.manueloverride{
+    font-size: 2rem;
+}
+.confirmbutton{
+    display: flex;
+    justify-content: center;
+}
+.switch{
+    font-size: 1.8rem;
+}
