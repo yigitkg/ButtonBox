@@ -1,3 +1,9 @@
+# Button Box
+
+This is a React.js project that you can turn on or off the buttons by clicking on them or giving the coordinate of the button you want to switch.
+
+![image](https://user-images.githubusercontent.com/25155414/218305432-d299a092-6df7-432e-b106-d2f61f8bd02a.png)
+
 npm i
 
 npm run start
